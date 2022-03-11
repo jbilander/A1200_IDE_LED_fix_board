@@ -19,8 +19,9 @@ Cause:<br />
 
 Solution:<br />
 
-    Using a 74HCT14 IC in-between the pin 39 /Active signal will bump the 3.3V up to 5V since HCT has TTL-level inputs. 
-    2.4V is enough to detect a High which will then be shifted up to 5V on the output.
+    Using a 74HCT14 IC in-between the pin 39 /Active signal will bump the 3.3V 
+    up to 5V since HCT has TTL-level inputs. 2.4V is enough to detect a High, 
+    which will then be shifted up to 5V on the output.
     
 Description taken from [here](http://megaburken.net/~patrik/Amiga%20SD%20Adapter%20HD%20LED%20Fix/fix.txt)<br />
 
