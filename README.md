@@ -1,6 +1,17 @@
 # A1200_IDE_LED_fix_board
 A small PCB that fixes the IDE Activity LED always being lit problem on the A1200. 
 
+<a href="images/A1200_IDE_LED_fix_board_pic1.png">
+<img src="images/A1200_IDE_LED_fix_board_pic1.png" width="330" height="215">
+</a>
+<a href="images/A1200_IDE_LED_fix_board_pic2.png">
+<img src="images/A1200_IDE_LED_fix_board_pic2.png" width="330" height="215">
+</a>
+
+***
+
+UNTESTED!
+
 ***
 
 Symptom:<br />
@@ -20,11 +31,21 @@ Cause:<br />
 Solution:<br />
 
     Using a 74HCT14 IC in-between the pin 39 /Active signal will bump the 3.3V 
-    up to 5V since HCT has TTL-level inputs. 2.4V is enough to detect a High, 
+    up to 5V since HCT has TTL-level inputs. 2V is enough to detect a High, 
     which will then be shifted up to 5V on the output.
     
 Description taken from [here](http://megaburken.net/~patrik/Amiga%20SD%20Adapter%20HD%20LED%20Fix/fix.txt)<br />
 
+***
+
+BOM Rev. A
+---------
+Position  | Name/Value   | Package | Notes
+-|-|-|-|
+U1 | 74HCT2G14 | TSOP-6 | Dual inverting Schmitt trigger
+C1 | 0.1uF = 100nF | 0805 | Decoupling capacitor
+J1 | PinSocket_2x22_P2.00mm_EdgeMount_SMD | | 
+J2 | PinHeader_2x22_P2.00mm_EdgeMount_SMD | |
 
 ***
 
