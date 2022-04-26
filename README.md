@@ -10,7 +10,34 @@ A small PCB that fixes the IDE Activity LED always being lit problem on the A120
 
 ***
 
-UNTESTED!
+
+<a href="images/A1200_IDE_LED_fix_board_pic3.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic3.jpg" width="256" height="192">
+</a>
+<a href="images/A1200_IDE_LED_fix_board_pic4.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic4.jpg" width="256" height="192">
+</a>
+<a href="images/A1200_IDE_LED_fix_board_pic5.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic5.jpg" width="256" height="192">
+</a>
+
+***
+
+<a href="images/A1200_IDE_LED_fix_board_pic6.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic6.jpg" width="256" height="192">
+</a>
+<a href="images/A1200_IDE_LED_fix_board_pic7.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic7.jpg" width="256" height="192">
+</a>
+<a href="images/A1200_IDE_LED_fix_board_pic8.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic8.jpg" width="256" height="192">
+</a>
+
+***
+
+<a href="images/A1200_IDE_LED_fix_board_pic9.jpg">
+<img src="images/A1200_IDE_LED_fix_board_pic9.jpg" width="512" height="384">
+</a>
 
 ***
 
