@@ -41,6 +41,12 @@ A small PCB that fixes the IDE Activity LED always being lit problem on the A120
 
 ***
 
+Video: <br />
+https://drive.google.com/file/d/1M3btw3f4qckySm2AM4Yh1fa0WKVMcq9z/view?usp=sharing
+
+
+***
+
 Symptom:<br />
 
     When using the Sintechi (*) SD2IDE-adapter in an A1200 the H.Drive LED is always on. 
